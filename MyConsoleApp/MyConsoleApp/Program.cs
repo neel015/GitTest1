@@ -10,11 +10,19 @@ namespace MyConsoleApp
     {
         static void Main(string[] args)
         {
-            // Commented in GitHub
-            // Demo application
-            Console.WriteLine("Hello World -- From Neel");
-            Console.ReadKey();
-            // Just to learn git!
+            try
+            {
+                // Commented in GitHub
+                // Demo application
+                Console.WriteLine("Hello World -- From Neel");
+                Console.ReadKey();
+                // Just to learn git!
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }
