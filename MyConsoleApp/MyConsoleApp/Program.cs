@@ -14,6 +14,7 @@ namespace MyConsoleApp
             // Demo application
             Console.WriteLine("Hello World");
             Console.ReadKey();
+            // Just to learn git!
         }
     }
 }
