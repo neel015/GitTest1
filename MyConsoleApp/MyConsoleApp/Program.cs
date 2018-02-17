@@ -17,10 +17,10 @@ namespace MyConsoleApp
                 Console.ReadKey();
                 // Just to learn git!
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
-                throw;
+                throw ex;
             }
         }
     }
