@@ -12,8 +12,7 @@ namespace MyConsoleApp
         {
             try
             {
-                // Commented in GitHub
-                // Demo application
+                // Commented in GitHub               
                 Console.WriteLine("Hello World -- From Neel !!");
                 Console.ReadKey();
                 // Just to learn git!
