@@ -8,6 +8,6 @@ namespace MyConsoleApp
 {
     public class Feature
     {
-        
+        public int Add(int a, int b) => a + b;
     }
 }
