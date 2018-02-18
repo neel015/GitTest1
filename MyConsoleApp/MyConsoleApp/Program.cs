@@ -8,6 +8,7 @@ namespace MyConsoleApp
 {
     class Program
     {
+        //Main method
         static void Main(string[] args)
         {
             try
